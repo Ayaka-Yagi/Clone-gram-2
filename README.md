@@ -1,4 +1,4 @@
-# Clone-gram-2
-Clone-gram-2
+# Clone-gram
+Clone-gram
 
 自分用
